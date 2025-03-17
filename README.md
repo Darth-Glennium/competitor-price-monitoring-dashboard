@@ -1,44 +1,44 @@
 
-Competitor Price Monitoring Dashboard - Power BI
-A Power BI dashboard that tracks competitor loan interest rates and default risk in Kenya.
+# Competitor Price Monitoring Dashboard
+
+This **Power BI Dashboard** provides insights into loan interest rates, approval times, and default risks across different lenders in Kenya. It helps financial analysts and decision-makers track competitor pricing trends and assess lending risks.
+
+## Features
+
+- **Interest Rate Trends** 📈: Visualizes interest rate changes over time for different lenders.
+- **Loan Distribution Analysis** 🏦: Displays the total loan amounts issued by each lender.
+- **Default Risk Analysis** ⚠️: Shows the proportion of high and low default risk borrowers.
+- **Loan Approval Time** ⏳: Analyzes how long different lenders take to approve loans.
+- **Interactive Filters** 🔍: Allows users to filter by lender and date range.
+
+## Technologies Used
+
+- **Power BI** for interactive data visualization.
+- **DAX (Data Analysis Expressions)** for calculated measures.
+- **CSV Data Source** for financial records.
+
+## How to Use
+
+1. **Download the Power BI file**.
+2. **Open in Power BI Desktop**.
+3. **Interact with the visuals** using the filters to explore insights.
+
+## Screenshots
 
 ![Image](https://github.com/user-attachments/assets/431344ca-e7d8-4ee9-ba08-5432a08e05c0)
 
-Project Overview
-This project provides insights into loan interest rates, approval times, and default risk across different lenders in Kenya. The dashboard helps lenders monitor market trends and make informed decisions.
+![Image](https://github.com/user-attachments/assets/66131ad2-eadf-407a-8f9d-4ba56625c0cc)
 
-Key Features
-Interest Rate Trends – Tracks how different lenders adjust their interest rates over time.
+![Image](https://github.com/user-attachments/assets/6ae11967-3a90-45e9-b495-b947227e28ae)
 
-Loan Distribution Analysis – Compares the loan amounts issued by different lenders.
+## Data Insights
 
-Default Risk Analysis – Shows the proportion of high-risk loans for each lender.
+- **Default Rate:** 39.1% of loan applicants are classified as high-risk.
+- **Interest Rate Variation:** Some lenders offer lower rates, while others maintain higher fixed rates.
+- **Approval Times:** Approval times vary significantly across different financial institutions.
 
-Approval Time Insights – Analyzes how long lenders take to approve loans.
 
-Interactive Filters – Allows users to filter data by lender and date.
+---
 
-Files in This Repository
-File Name	Description
-Competitor_Price_Monitoring.pbix	Power BI dashboard file
-synthetic_mobile_lending_data.csv	Sample dataset used for visualization
-README.md	Project documentation
-How to Use This Dashboard
-Download Competitor_Price_Monitoring.pbix
-
-Open it using Power BI Desktop
-
-Explore the interactive visuals and insights
-
-Screenshots
-Interest Rate Trends
-(Insert image here)
-
-Default Risk Analysis
-(Insert image here)
-
-Contact
-LinkedIn: Your LinkedIn Profile
-
-Email: your@email.com
+**Author:** Glenn Kipanga  
 
