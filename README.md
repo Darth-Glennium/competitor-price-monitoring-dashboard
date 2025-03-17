@@ -5,11 +5,11 @@ This **Power BI Dashboard** provides insights into loan interest rates, approval
 
 ## Features
 
-- **Interest Rate Trends** 📈: Visualizes interest rate changes over time for different lenders.
-- **Loan Distribution Analysis** 🏦: Displays the total loan amounts issued by each lender.
-- **Default Risk Analysis** ⚠️: Shows the proportion of high and low default risk borrowers.
-- **Loan Approval Time** ⏳: Analyzes how long different lenders take to approve loans.
-- **Interactive Filters** 🔍: Allows users to filter by lender and date range.
+- **Interest Rate Trends** : Visualizes interest rate changes over time for different lenders.
+- **Loan Distribution Analysis** : Displays the total loan amounts issued by each lender.
+- **Default Risk Analysis** : Shows the proportion of high and low default risk borrowers.
+- **Loan Approval Time** : Analyzes how long different lenders take to approve loans.
+- **Interactive Filters** : Allows users to filter by lender and date range.
 
 ## Technologies Used
 
